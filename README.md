@@ -12,4 +12,5 @@
 
 - har() 입력 
 - download.js 안에 내용을 복사해서 console에 넣기
+- img 주소 다운로드 완료
 
